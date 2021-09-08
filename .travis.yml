@@ -1,1 +1,2 @@
 docker build -t simple-node --build-arg NAME=${NAME} .
+
